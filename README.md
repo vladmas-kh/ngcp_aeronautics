@@ -5,8 +5,8 @@ Function 1
 Inputs:
 
 Tables:
-	range vs airspeed
-	time of flight vs airspeed
+	range vs airspeed (loaded and unloaded)
+	time of flight vs airspeed (loaded and unloaded)
 	vehicle energy capacity
 	
 	
